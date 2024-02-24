@@ -8,6 +8,4 @@ int main(){
     printf("z = %d\n",z);   //23
     x = z++ * 3;            
     printf("x = %d\n",x);   //69
-
-
 }
