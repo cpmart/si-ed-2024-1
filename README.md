@@ -1,0 +1,1 @@
+Exercícios resolvidos em sala
