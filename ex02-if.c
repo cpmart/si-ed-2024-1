@@ -8,6 +8,6 @@ int main(){
         printf("Frio\n");
     else if(temperatura>=20 && temperatura<=30)
         printf("Agradável\n");
-    else if(temperatura>30)
+    else 
         printf("Jales\n");
 }
